@@ -1,0 +1,4 @@
+{
+  "exclude": ["**/node_modules"],
+  "references": [{ "path": "./apps/express" }, { "path": "./apps/native" }, { "path": "./apps/react" }]
+}
